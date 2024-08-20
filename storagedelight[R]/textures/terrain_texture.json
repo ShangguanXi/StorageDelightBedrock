@@ -1,0 +1,142 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "warped_drawer_front_open": {
+      "textures": "textures/blocks/warped_drawer_front_open"
+    },
+    "warped_drawer_front": {
+      "textures": "textures/blocks/warped_drawer_front"
+    },
+    "spruce_drawer_front_open": {
+      "textures": "textures/blocks/spruce_drawer_front_open"
+    },
+    "spruce_drawer_front": {
+      "textures": "textures/blocks/spruce_drawer_front"
+    },
+    "oak_drawer_front_open": {
+      "textures": "textures/blocks/oak_drawer_front_open"
+    },
+    "oak_drawer_front": {
+      "textures": "textures/blocks/oak_drawer_front"
+    },
+    "mangrove_drawer_front_open": {
+      "textures": "textures/blocks/mangrove_drawer_front_open"
+    },
+    "mangrove_drawer_front": {
+      "textures": "textures/blocks/mangrove_drawer_front"
+    },
+    "jungle_drawer_front_open": {
+      "textures": "textures/blocks/jungle_drawer_front_open"
+    },
+    "jungle_drawer_front": {
+      "textures": "textures/blocks/jungle_drawer_front"
+    },
+    "item_texture": {
+      "textures": "textures/blocks/item_texture"
+    },
+    "glass_warped_cabinet_front_open": {
+      "textures": "textures/blocks/glass_warped_cabinet_front_open"
+    },
+    "glass_warped_cabinet_front": {
+      "textures": "textures/blocks/glass_warped_cabinet_front"
+    },
+    "glass_spruce_cabinet_front_open": {
+      "textures": "textures/blocks/glass_spruce_cabinet_front_open"
+    },
+    "glass_spruce_cabinet_front": {
+      "textures": "textures/blocks/glass_spruce_cabinet_front"
+    },
+    "glass_oak_cabinet_front_open": {
+      "textures": "textures/blocks/glass_oak_cabinet_front_open"
+    },
+    "glass_oak_cabinet_front": {
+      "textures": "textures/blocks/glass_oak_cabinet_front"
+    },
+    "glass_mangrove_cabinet_front_open": {
+      "textures": "textures/blocks/glass_mangrove_cabinet_front_open"
+    },
+    "glass_mangrove_cabinet_front": {
+      "textures": "textures/blocks/glass_mangrove_cabinet_front"
+    },
+    "glass_jungle_cabinet_front_open": {
+      "textures": "textures/blocks/glass_jungle_cabinet_front_open"
+    },
+    "glass_jungle_cabinet_front": {
+      "textures": "textures/blocks/glass_jungle_cabinet_front"
+    },
+    "glass_dark_oak_cabinet_front_open": {
+      "textures": "textures/blocks/glass_dark_oak_cabinet_front_open"
+    },
+    "glass_dark_oak_cabinet_front": {
+      "textures": "textures/blocks/glass_dark_oak_cabinet_front"
+    },
+    "glass_crimson_cabinet_front_open": {
+      "textures": "textures/blocks/glass_crimson_cabinet_front_open"
+    },
+    "glass_crimson_cabinet_front": {
+      "textures": "textures/blocks/glass_crimson_cabinet_front"
+    },
+    "glass_cherry_cabinet_front_open": {
+      "textures": "textures/blocks/glass_cherry_cabinet_front_open"
+    },
+    "glass_cherry_cabinet_front": {
+      "textures": "textures/blocks/glass_cherry_cabinet_front"
+    },
+    "glass_birch_cabinet_front_open": {
+      "textures": "textures/blocks/glass_birch_cabinet_front_open"
+    },
+    "glass_birch_cabinet_front": {
+      "textures": "textures/blocks/glass_birch_cabinet_front"
+    },
+    "glass_bamboo_cabinet_front_open": {
+      "textures": "textures/blocks/glass_bamboo_cabinet_front_open"
+    },
+    "glass_bamboo_cabinet_front": {
+      "textures": "textures/blocks/glass_bamboo_cabinet_front"
+    },
+    "glass_acacia_cabinet_front_open": {
+      "textures": "textures/blocks/glass_acacia_cabinet_front_open"
+    },
+    "glass_acacia_cabinet_front": {
+      "textures": "textures/blocks/glass_acacia_cabinet_front"
+    },
+    "dark_oak_drawer_front_open": {
+      "textures": "textures/blocks/dark_oak_drawer_front_open"
+    },
+    "dark_oak_drawer_front": {
+      "textures": "textures/blocks/dark_oak_drawer_front"
+    },
+    "crimson_drawer_front_open": {
+      "textures": "textures/blocks/crimson_drawer_front_open"
+    },
+    "crimson_drawer_front": {
+      "textures": "textures/blocks/crimson_drawer_front"
+    },
+    "cherry_drawer_front_open": {
+      "textures": "textures/blocks/cherry_drawer_front_open"
+    },
+    "cherry_drawer_front": {
+      "textures": "textures/blocks/cherry_drawer_front"
+    },
+    "birch_drawer_front_open": {
+      "textures": "textures/blocks/birch_drawer_front_open"
+    },
+    "birch_drawer_front": {
+      "textures": "textures/blocks/birch_drawer_front"
+    },
+    "bamboo_drawer_front_open": {
+      "textures": "textures/blocks/bamboo_drawer_front_open"
+    },
+    "bamboo_drawer_front": {
+      "textures": "textures/blocks/bamboo_drawer_front"
+    },
+    "acacia_drawer_front_open": {
+      "textures": "textures/blocks/acacia_drawer_front_open"
+    },
+    "acacia_drawer_front": {
+      "textures": "textures/blocks/acacia_drawer_front"
+    }
+  }
+}

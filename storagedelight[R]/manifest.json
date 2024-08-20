@@ -1,0 +1,45 @@
+{
+    "dependencies": [
+        {
+            "uuid": "12ebe9ba-a272-4200-a97a-fd1eb0ec41d2",
+            "version": [
+                2,
+                1,
+                1
+            ]
+        }
+    ],
+    "format_version": 2,
+    "header": {
+        "description": "pack.description",
+        "min_engine_version": [
+            1,
+            21,
+            20
+        ],
+        "name": "pack.name",
+        "uuid": "a782f1d0-4e19-4d2f-8438-9f2e292147bc",
+        "version": [
+            2,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "pack.description",
+            "type": "resources",
+            "uuid": "aafd71b2-85e4-476c-ba79-f52a33a2d793",
+            "version": [
+                2,
+                1,
+                1
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Moaswies"
+        ]
+    }
+}

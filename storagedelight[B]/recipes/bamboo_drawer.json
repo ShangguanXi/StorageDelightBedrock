@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:bamboo_drawer"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:bamboo_slab"
+            },
+            "B": {
+                "item": "minecraft:bamboo_trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ],
+        "result": {
+            "item": "storagedelight:bamboo_drawer"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

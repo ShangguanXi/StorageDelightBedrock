@@ -1,0 +1,55 @@
+tile.storagedelight.cherry_cabinet.name=Cherry Cabinet
+tile.storagedelight.bamboo_cabinet.name=Bamboo Cabinet
+
+tile.storagedelight.oak_drawer.name=Oak Drawer
+tile.storagedelight.birch_drawer.name=Birch Drawer
+tile.storagedelight.spruce_drawer.name=Spruce Drawer
+tile.storagedelight.cherry_drawer.name=Cherry Drawer
+tile.storagedelight.jungle_drawer.name=Jungle Drawer
+tile.storagedelight.acacia_drawer.name=Acacia Drawer
+tile.storagedelight.dark_oak_drawer.name=Dark Oak Drawer
+tile.storagedelight.mangrove_drawer.name=Mangrove Drawer
+tile.storagedelight.crimson_drawer.name=Crimson Drawer
+tile.storagedelight.warped_drawer.name=Warped Drawer
+tile.storagedelight.bamboo_drawer.name=Bamboo Drawer
+
+tile.storagedelight.glass_oak_cabinet.name=Glass Oak Cabinet
+tile.storagedelight.glass_birch_cabinet.name=Glass Birch Cabinet
+tile.storagedelight.glass_spruce_cabinet.name=Glass Spruce Cabinet
+tile.storagedelight.glass_cherry_cabinet.name=Glass Cherry Cabinet
+tile.storagedelight.glass_jungle_cabinet.name=Glass Jungle Cabinet
+tile.storagedelight.glass_acacia_cabinet.name=Glass Acacia Cabinet
+tile.storagedelight.glass_dark_oak_cabinet.name=Glass Dark Oak Cabinet
+tile.storagedelight.glass_mangrove_cabinet.name=Glass Mangrove Cabinet
+tile.storagedelight.glass_crimson_cabinet.name=Glass Crimson Cabinet
+tile.storagedelight.glass_warped_cabinet.name=Glass Warped Cabinet
+tile.storagedelight.glass_bamboo_cabinet.name=Glass Bamboo Cabinet
+
+entity.storagedelight.cherry_cabinet.name=Cherry Cabinet
+entity.storagedelight.bamboo_cabinet.name=Bamboo Cabinet
+
+entity.storagedelight.oak_drawer.name=Oak Drawer
+entity.storagedelight.birch_drawer.name=Birch Drawer
+entity.storagedelight.spruce_drawer.name=Spruce Drawer
+entity.storagedelight.cherry_drawer.name=Cherry Drawer
+entity.storagedelight.jungle_drawer.name=Jungle Drawer
+entity.storagedelight.acacia_drawer.name=Acacia Drawer
+entity.storagedelight.dark_oak_drawer.name=Dark Oak Drawer
+entity.storagedelight.mangrove_drawer.name=Mangrove Drawer
+entity.storagedelight.crimson_drawer.name=Crimson Drawer
+entity.storagedelight.warped_drawer.name=Warped Drawer
+entity.storagedelight.bamboo_drawer.name=Bamboo Drawer
+
+entity.storagedelight.glass_oak_cabinet.name=Glass Oak Cabinet
+entity.storagedelight.glass_birch_cabinet.name=Glass Birch Cabinet
+entity.storagedelight.glass_spruce_cabinet.name=Glass Spruce Cabinet
+entity.storagedelight.glass_cherry_cabinet.name=Glass Cherry Cabinet
+entity.storagedelight.glass_jungle_cabinet.name=Glass Jungle Cabinet
+entity.storagedelight.glass_acacia_cabinet.name=Glass Acacia Cabinet
+entity.storagedelight.glass_dark_oak_cabinet.name=Glass Dark Oak Cabinet
+entity.storagedelight.glass_mangrove_cabinet.name=Glass Mangrove Cabinet
+entity.storagedelight.glass_crimson_cabinet.name=Glass Crimson Cabinet
+entity.storagedelight.glass_warped_cabinet.name=Glass Warped Cabinet
+entity.storagedelight.glass_bamboo_cabinet.name=Glass Bamboo Cabinet
+pack.name=Storage Delight
+pack.description=This mod transplants the original Java mod Storage Delight Lays under the MIT license.

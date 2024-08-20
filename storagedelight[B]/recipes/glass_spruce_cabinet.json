@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:glass_spruce_cabinet"
+        },
+        "key": {
+            "G": {
+                "item": "minecraft:glass_pane"
+            },
+            "S": {
+                "item": "minecraft:spruce_slab"
+            },
+            "T": {
+                "item": "minecraft:spruce_trapdoor"
+            }
+        },
+        "pattern": [
+            "SSS",
+            "TGT",
+            "SSS"
+        ],
+        "result": {
+            "item": "storagedelight:glass_spruce_cabinet"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

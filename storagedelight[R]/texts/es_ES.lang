@@ -1,0 +1,55 @@
+tile.storagedelight:cherry_cabinet.name=Gabinete de cerezo
+tile.storagedelight:bamboo_cabinet.name=Gabinete de bambú
+
+tile.storagedelight:oak_drawer.name=Cajón de roble
+tile.storagedelight:birch_drawer.name=Cajón de abedul
+tile.storagedelight:spruce_drawer.name=Cajón de abeto
+tile.storagedelight:cherry_drawer.name=Cajón de cerezo
+tile.storagedelight:jungle_drawer.name=Cajón de jungla
+tile.storagedelight:acacia_drawer.name=Cajón de acacia
+tile.storagedelight:dark_oak_drawer.name=Cajón de roble oscuro
+tile.storagedelight:mangrove_drawer.name=Cajón de manglar
+tile.storagedelight:crimson_drawer.name=Cajón carmesí
+tile.storagedelight:warped_drawer.name=Cajón deformado
+tile.storagedelight:bamboo_drawer.name=Cajón de bambús
+
+tile.storagedelight:glass_oak_cabinet.name=Gabinete de cristal de roble
+tile.storagedelight:glass_birch_cabinet.name=Gabinete de cristal de abedul
+tile.storagedelight:glass_spruce_cabinet.name=Gabinete de cristal de abeto
+tile.storagedelight:glass_cherry_cabinet.name=Gabinete de cristal de cerezo
+tile.storagedelight:glass_jungle_cabinet.name=Gabinete de cristal de jungla
+tile.storagedelight:glass_acacia_cabinet.name=Gabinete de cristal de acacia
+tile.storagedelight:glass_dark_oak_cabinet.name=Gabinete de cristal de roble oscuro
+tile.storagedelight:glass_mangrove_cabinet.name=Gabinete de cristal de manglar
+tile.storagedelight:glass_crimson_cabinet.name=Gabinete de cristal carmesí
+tile.storagedelight:glass_warped_cabinet.name=Gabinete de cristal deformado
+tile.storagedelight:glass_bamboo_cabinet.name=Gabinete de cristal de bambú
+
+entity.storagedelight:cherry_cabinet.name=Gabinete de cerezo
+entity.storagedelight:bamboo_cabinet.name=Gabinete de bambú
+
+entity.storagedelight:oak_drawer.name=Cajón de roble
+entity.storagedelight:birch_drawer.name=Cajón de abedul
+entity.storagedelight:spruce_drawer.name=Cajón de abeto
+entity.storagedelight:cherry_drawer.name=Cajón de cerezo
+entity.storagedelight:jungle_drawer.name=Cajón de jungla
+entity.storagedelight:acacia_drawer.name=Cajón de acacia
+entity.storagedelight:dark_oak_drawer.name=Cajón de roble oscuro
+entity.storagedelight:mangrove_drawer.name=Cajón de manglar
+entity.storagedelight:crimson_drawer.name=Cajón carmesí
+entity.storagedelight:warped_drawer.name=Cajón deformado
+entity.storagedelight:bamboo_drawer.name=Cajón de bambú
+
+entity.storagedelight:glass_oak_cabinet.name=Gabinete de cristal de roble
+entity.storagedelight:glass_birch_cabinet.name=Gabinete de cristal de abedul
+entity.storagedelight:glass_spruce_cabinet.name=Gabinete de cristal de abeto
+entity.storagedelight:glass_cherry_cabinet.name=Gabinete de cristal de cerezo
+entity.storagedelight:glass_jungle_cabinet.name=Gabinete de cristal de jungla
+entity.storagedelight:glass_acacia_cabinet.name=Gabinete de cristal de acacia
+entity.storagedelight:glass_dark_oak_cabinet.name=Gabinete de cristal de roble oscuro
+entity.storagedelight:glass_mangrove_cabinet.name=Gabinete de cristal de manglar
+entity.storagedelight:glass_crimson_cabinet.name=Gabinete de cristal carmesí
+entity.storagedelight:glass_warped_cabinet.name=Gabinete de cristal deformado
+entity.storagedelight:glass_bamboo_cabinet.name=Gabinete de cristal de bambú
+pack.name=Storage Delight
+pack.description=Este mod transplanta el mod original de Java Storage Delight Lays bajo la licencia MIT.

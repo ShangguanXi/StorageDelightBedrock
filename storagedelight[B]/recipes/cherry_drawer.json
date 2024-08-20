@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:cherry_drawer"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:cherry_slab"
+            },
+            "B": {
+                "item": "minecraft:cherry_trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ],
+        "result": {
+            "item": "storagedelight:cherry_drawer"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

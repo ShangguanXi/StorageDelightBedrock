@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:warped_drawer"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:warped_slab"
+            },
+            "B": {
+                "item": "minecraft:warped_trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ],
+        "result": {
+            "item": "storagedelight:warped_drawer"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

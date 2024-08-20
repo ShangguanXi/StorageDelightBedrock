@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:acacia_drawer"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:acacia_slab"
+            },
+            "B": {
+                "item": "minecraft:acacia_trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ],
+        "result": {
+            "item": "storagedelight:acacia_drawer"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

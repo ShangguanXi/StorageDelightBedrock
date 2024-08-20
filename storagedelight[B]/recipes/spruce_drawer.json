@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:spruce_drawer"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:spruce_slab"
+            },
+            "B": {
+                "item": "minecraft:spruce_trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "AAA"
+        ],
+        "result": {
+            "item": "storagedelight:spruce_drawer"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
