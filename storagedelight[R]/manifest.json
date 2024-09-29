@@ -3,9 +3,9 @@
         {
             "uuid": "12ebe9ba-a272-4200-a97a-fd1eb0ec41d2",
             "version": [
-                2,
-                1,
-                1
+                3,
+                0,
+                0
             ]
         }
     ],
@@ -20,7 +20,7 @@
         "name": "pack.name",
         "uuid": "a782f1d0-4e19-4d2f-8438-9f2e292147bc",
         "version": [
-            2,
+            3,
             0,
             0
         ]
@@ -31,9 +31,9 @@
             "type": "resources",
             "uuid": "aafd71b2-85e4-476c-ba79-f52a33a2d793",
             "version": [
-                2,
-                1,
-                1
+                3,
+                0,
+                0
             ]
         }
     ],
