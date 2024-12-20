@@ -1,0 +1,55 @@
+tile.storagedelight:cherry_cabinet.name=Kiraz Kiler
+tile.storagedelight:bamboo_cabinet.name=Bambu Kiler
+
+tile.storagedelight:oak_drawer.name=Meşe Çekmece
+tile.storagedelight:birch_drawer.name=Huş Çekmece
+tile.storagedelight:spruce_drawer.name=Çam Çekmece
+tile.storagedelight:cherry_drawer.name=Kiraz Çekmece
+tile.storagedelight:jungle_drawer.name=Orman Çekmece
+tile.storagedelight:acacia_drawer.name=Akasya Çekmece
+tile.storagedelight:dark_oak_drawer.name=Koyu Meşe Çekmece
+tile.storagedelight:mangrove_drawer.name=Mangrov Çekmece
+tile.storagedelight:crimson_drawer.name=Kızıl Çekmece
+tile.storagedelight:warped_drawer.name=Çarpık Çekmece
+tile.storagedelight:bamboo_drawer.name=Bambu Çekmece
+
+tile.storagedelight:glass_oak_cabinet.name=Camlı Meşe Kiler
+tile.storagedelight:glass_birch_cabinet.name=Camlı Huş Kiler
+tile.storagedelight:glass_spruce_cabinet.name=Camlı Çam Kiler
+tile.storagedelight:glass_cherry_cabinet.name=Camlı Kiraz Kiler
+tile.storagedelight:glass_jungle_cabinet.name=Camlı Orman Kiler
+tile.storagedelight:glass_acacia_cabinet.name=Camlı Akasya Kiler
+tile.storagedelight:glass_dark_oak_cabinet.name=Camlı Koyu Meşe Kiler
+tile.storagedelight:glass_mangrove_cabinet.name=Camlı Mangrov Kiler
+tile.storagedelight:glass_crimson_cabinet.name=Camlı Kızıl Kiler
+tile.storagedelight:glass_warped_cabinet.name=Camlı Çarpık Kiler
+tile.storagedelight:glass_bamboo_cabinet.name=Camlı Bambu Kiler
+
+entity.storagedelight:cherry_cabinet.name=Kiraz Kiler
+entity.storagedelight:bamboo_cabinet.name=Bambu Kiler
+
+entity.storagedelight:oak_drawer.name=Meşe Çekmece
+entity.storagedelight:birch_drawer.name=Huş Çekmece
+entity.storagedelight:spruce_drawer.name=Çam Çekmece
+entity.storagedelight:cherry_drawer.name=Kiraz Çekmece
+entity.storagedelight:jungle_drawer.name=Orman Çekmece
+entity.storagedelight:acacia_drawer.name=Akasya Çekmece
+entity.storagedelight:dark_oak_drawer.name=Koyu Meşe Çekmece
+entity.storagedelight:mangrove_drawer.name=Mangrov Çekmece
+entity.storagedelight:crimson_drawer.name=Kızıl Çekmece
+entity.storagedelight:warped_drawer.name=Çarpık Kiler
+entity.storagedelight:bamboo_drawer.name=Bambou Kiler
+
+entity.storagedelight:glass_oak_cabinet.name=Camlı Meşe Kiler
+entity.storagedelight:glass_birch_cabinet.name=Camlı Huş Kiler
+entity.storagedelight:glass_spruce_cabinet.name=Camlı Çam Kiler
+entity.storagedelight:glass_cherry_cabinet.name=Camlı Kiraz Kiler
+entity.storagedelight:glass_jungle_cabinet.name=Camlı Orman Kiler
+entity.storagedelight:glass_acacia_cabinet.name=Camlı Akasya Kiler
+entity.storagedelight:glass_dark_oak_cabinet.name=Camlı Koyu Meşe Kiler
+entity.storagedelight:glass_mangrove_cabinet.name=Camlı Mangrov Kiler
+entity.storagedelight:glass_crimson_cabinet.name=Camlı Kızıl Kiler
+entity.storagedelight:glass_warped_cabinet.name=Camlı Çarpık Kiler
+entity.storagedelight:glass_bamboo_cabinet.name=Camlı Bambu Kiler
+pack.name=Storage Delight
+pack.description=This mod transplants the original Java mod Storage Delight Lays under the MIT license.
