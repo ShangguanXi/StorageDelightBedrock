@@ -15,7 +15,7 @@
         "min_engine_version": [
             1,
             21,
-            20
+            70
         ],
         "name": "pack.name",
         "uuid": "12ebe9ba-a272-4200-a97a-fd1eb0ec41d2",
@@ -28,7 +28,7 @@
     "modules": [
         {
             "description": "pack.description",
-            "type": "addon",
+            "type": "data",
             "uuid": "9727067f-6bd8-42ef-958c-220e23a75f35",
             "version": [
                 3,
@@ -38,8 +38,9 @@
         }
     ],
     "metadata": {
+        "product_type": "addon",
         "authors": [
-			"Moaswies"
+            "Moaswies"
         ]
     }
 }
