@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:bamboo_single_door_cabinet"
+        },
+        "key": {
+            "S": {
+                "item": "minecraft:bamboo_slab"
+            },
+            "T": {
+                "item": "minecraft:bamboo_trapdoor"
+            }
+        },
+        "pattern": [
+            "SSS",
+            " T ",
+            "SSS"
+        ],
+        "result": {
+            "item": "storagedelight:bamboo_single_door_cabinet"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

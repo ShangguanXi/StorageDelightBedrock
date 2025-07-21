@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:oak_drawer_with_door"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:oak_slab"
+            },
+            "B": {
+                "item": "minecraft:trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "ABA"
+        ],
+        "result": {
+            "item": "storagedelight:oak_drawer_with_door"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

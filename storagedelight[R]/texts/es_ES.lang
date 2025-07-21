@@ -25,6 +25,84 @@ tile.storagedelight:glass_crimson_cabinet.name=Gabinete de cristal carmesí
 tile.storagedelight:glass_warped_cabinet.name=Gabinete de cristal deformado
 tile.storagedelight:glass_bamboo_cabinet.name=Gabinete de cristal de bambú
 
+tile.storagedelight:small_oak_drawers.name=Cajones Pequeños de Roble
+tile.storagedelight:small_birch_drawers.name=Cajones Pequeños de Abedul
+tile.storagedelight:small_spruce_drawers.name=Cajones Pequeños de Abeto
+tile.storagedelight:small_cherry_drawers.name=Cajones Pequeños de Cerezo
+tile.storagedelight:small_jungle_drawers.name=Cajones Pequeños de Selva
+tile.storagedelight:small_acacia_drawers.name=Cajones Pequeños de Acacia
+tile.storagedelight:small_dark_oak_drawers.name=Cajones Pequeños de Roble Oscuro
+tile.storagedelight:small_mangrove_drawers.name=Cajones Pequeños de Manglar
+tile.storagedelight:small_crimson_drawers.name=Cajones Pequeños de Carmesí
+tile.storagedelight:small_warped_drawers.name=Cajones Pequeños de Distorcido
+tile.storagedelight:small_bamboo_drawers.name=Cajones Pequeños de Bambú
+tile.storagedelight:small_pale_oak_drawers.name=Cajones Pequeños de Roble Claro
+
+tile.storagedelight:oak_drawer_with_books.name=Cajón de Roble con Libros
+tile.storagedelight:birch_drawer_with_books.name=Cajón de Abedul con Libros
+tile.storagedelight:spruce_drawer_with_books.name=Cajón de Abeto con Libros
+tile.storagedelight:cherry_drawer_with_books.name=Cajón de Cerezo con Libros
+tile.storagedelight:jungle_drawer_with_books.name=Cajón de Selva con Libros
+tile.storagedelight:acacia_drawer_with_books.name=Cajón de Acacia con Libros
+tile.storagedelight:dark_oak_drawer_with_books.name=Cajón de Roble Oscuro con Libros
+tile.storagedelight:mangrove_drawer_with_books.name=Cajón de Manglar con Libros
+tile.storagedelight:crimson_drawer_with_books.name=Cajón Carmesí con Libros
+tile.storagedelight:warped_drawer_with_books.name=Cajón Distorcido con Libros
+tile.storagedelight:bamboo_drawer_with_books.name=Cajón de Bambú con Libros
+tile.storagedelight:pale_oak_drawer_with_books.name=Cajón de Roble Claro con Libros
+
+tile.storagedelight:oak_bookshelf_with_door.name=Estantería de Roble con Puerta
+tile.storagedelight:birch_bookshelf_with_door.name=Estantería de Abedul con Puerta
+tile.storagedelight:spruce_bookshelf_with_door.name=Estantería de Abeto con Puerta
+tile.storagedelight:cherry_bookshelf_with_door.name=Estantería de Cerezo con Puerta
+tile.storagedelight:jungle_bookshelf_with_door.name=Estantería de Madera de Jungla con Puerta
+tile.storagedelight:acacia_bookshelf_with_door.name=Estantería de Acacia con Puerta
+tile.storagedelight:dark_oak_bookshelf_with_door.name=Estantería de Roble Oscuro con Puerta
+tile.storagedelight:mangrove_bookshelf_with_door.name=Estantería de Mangle con Puerta
+tile.storagedelight:crimson_bookshelf_with_door.name=Estantería Carmesí con Puerta
+tile.storagedelight:warped_bookshelf_with_door.name=Estantería Deforme con Puerta
+tile.storagedelight:bamboo_bookshelf_with_door.name=Estantería de Bambú con Puerta
+tile.storagedelight:pale_oak_bookshelf_with_door.name=Estantería de Roble Claro con Puerta
+
+tile.storagedelight:oak_drawer_with_door.name=Cajón de Roble con Puerta
+tile.storagedelight:birch_drawer_with_door.name=Cajón de Abedul con Puerta
+tile.storagedelight:spruce_drawer_with_door.name=Cajón de Abeto con Puerta
+tile.storagedelight:cherry_drawer_with_door.name=Cajón de Cerezo con Puerta
+tile.storagedelight:jungle_drawer_with_door.name=Cajón de Selva con Puerta
+tile.storagedelight:acacia_drawer_with_door.name=Cajón de Acacia con Puerta
+tile.storagedelight:dark_oak_drawer_with_door.name=Cajón de Roble Oscuro con Puerta
+tile.storagedelight:mangrove_drawer_with_door.name=Cajón de Manglar con Puerta
+tile.storagedelight:crimson_drawer_with_door.name=Cajón Carmesí con Puerta
+tile.storagedelight:warped_drawer_with_door.name=Cajón Distorcido con Puerta
+tile.storagedelight:bamboo_drawer_with_door.name=Cajón de Bambú con Puerta
+tile.storagedelight:pale_oak_drawer_with_door.name=Cajón de Roble Claro con Puerta
+
+
+tile.storagedelight:oak_cabinet_with_glass_doors.name=Gabinete de Roble con Puertas de Vidrio
+tile.storagedelight:birch_cabinet_with_glass_doors.name=Gabinete de Abedul con Puertas de Vidrio
+tile.storagedelight:spruce_cabinet_with_glass_doors.name=Gabinete de Abeto con Puertas de Vidrio
+tile.storagedelight:jungle_cabinet_with_glass_doors.name=Gabinete de Selva con Puertas de Vidrio
+tile.storagedelight:acacia_cabinet_with_glass_doors.name=Gabinete de Acacia con Puertas de Vidrio
+tile.storagedelight:dark_oak_cabinet_with_glass_doors.name=Gabinete de Roble Oscuro con Puertas de Vidrio
+tile.storagedelight:mangrove_cabinet_with_glass_doors.name=Gabinete de Manglar con Puertas de Vidrio
+tile.storagedelight:cherry_cabinet_with_glass_doors.name=Gabinete de Cerezo con Puertas de Vidrio
+tile.storagedelight:bamboo_cabinet_with_glass_doors.name=Gabinete de Bambú con Puertas de Vidrio
+tile.storagedelight:warped_cabinet_with_glass_doors.name=Gabinete Distorcido con Puertas de Vidrio
+tile.storagedelight:crimson_cabinet_with_glass_doors.name=Gabinete de Carmesí con Puertas de Vidrio
+tile.storagedelight:pale_oak_cabinet_with_glass_doors.name=Gabinete de Roble Claro con Puertas de Cristal
+
+tile.storagedelight:oak_single_door_cabinet.name=Gabinete de Roble de una sola puerta
+tile.storagedelight:birch_single_door_cabinet.name=Gabinete de Abedul de una sola puerta
+tile.storagedelight:spruce_single_door_cabinet.name=Gabinete de Abeto de una sola puerta
+tile.storagedelight:cherry_single_door_cabinet.name=Gabinete de Cerezo de una sola puerta
+tile.storagedelight:jungle_single_door_cabinet.name=Gabinete de Jungla de una sola puerta
+tile.storagedelight:acacia_single_door_cabinet.name=Gabinete de Acacia de una sola puerta
+tile.storagedelight:dark_oak_single_door_cabinet.name=Gabinete de Roble Oscuro de una sola puerta
+tile.storagedelight:mangrove_single_door_cabinet.name=Gabinete de Manglar de una sola puerta
+tile.storagedelight:crimson_single_door_cabinet.name=Gabinete de Carmesí de una sola puerta
+tile.storagedelight:warped_single_door_cabinet.name=Gabinete Distorcido de una sola puerta
+tile.storagedelight:bamboo_single_door_cabinet.name=Gabinete de Bambú de una sola puerta
+tile.storagedelight:pale_oak_single_door_cabinet.name=Gabinete de Roble Claro de una Sola Puerta
 entity.storagedelight:cherry_cabinet.name=Gabinete de cerezo
 entity.storagedelight:bamboo_cabinet.name=Gabinete de bambú
 

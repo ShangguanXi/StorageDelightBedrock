@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:mangrove_drawer_with_books"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:mangrove_slab"
+            },
+            "B": {
+                "item": "minecraft:mangrove_trapdoor"
+            },
+            "C": {
+                "item": "minecraft:bookshelf"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "ACA"
+        ],
+        "result": {
+            "item": "storagedelight:mangrove_drawer_with_books"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

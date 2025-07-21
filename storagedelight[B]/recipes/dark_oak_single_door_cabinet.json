@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:dark_oak_single_door_cabinet"
+        },
+        "key": {
+            "S": {
+                "item": "minecraft:dark_oak_slab"
+            },
+            "T": {
+                "item": "minecraft:dark_oak_trapdoor"
+            }
+        },
+        "pattern": [
+            "SSS",
+            " T ",
+            "SSS"
+        ],
+        "result": {
+            "item": "storagedelight:dark_oak_single_door_cabinet"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

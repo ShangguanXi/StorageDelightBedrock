@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:birch_drawer_with_door"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:birch_slab"
+            },
+            "B": {
+                "item": "minecraft:birch_trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "BBB",
+            "ABA"
+        ],
+        "result": {
+            "item": "storagedelight:birch_drawer_with_door"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

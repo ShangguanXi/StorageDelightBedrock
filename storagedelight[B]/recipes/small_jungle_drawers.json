@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:small_jungle_drawers"
+        },
+        "key": {
+            "A": {
+                "item": "minecraft:jungle_slab"
+            },
+            "B": {
+                "item": "minecraft:jungle_trapdoor"
+            }
+        },
+        "pattern": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "result": {
+            "item": "storagedelight:small_jungle_drawers"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

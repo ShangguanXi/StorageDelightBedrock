@@ -25,6 +25,84 @@ tile.storagedelight:glass_crimson_cabinet.name=Camlı Kızıl Kiler
 tile.storagedelight:glass_warped_cabinet.name=Camlı Çarpık Kiler
 tile.storagedelight:glass_bamboo_cabinet.name=Camlı Bambu Kiler
 
+tile.storagedelight:oak_drawer_with_door.name=Kapaklı Meşe Çekmece
+tile.storagedelight:birch_drawer_with_door.name=Kapaklı Huş Çekmece
+tile.storagedelight:spruce_drawer_with_door.name=Kapaklı Ladin Çekmece
+tile.storagedelight:cherry_drawer_with_door.name=Kapaklı Kiraz Ağacı Çekmece
+tile.storagedelight:jungle_drawer_with_door.name=Kapaklı Orman Ağacı Çekmece
+tile.storagedelight:acacia_drawer_with_door.name=Kapaklı Akasya Çekmece
+tile.storagedelight:dark_oak_drawer_with_door.name=Kapaklı Koyu Meşe Çekmece
+tile.storagedelight:mangrove_drawer_with_door.name=Kapaklı Mangrov Çekmece
+tile.storagedelight:crimson_drawer_with_door.name=Kapaklı Kızıl Çekmece
+tile.storagedelight:warped_drawer_with_door.name=Kapaklı Çarpık Çekmece
+tile.storagedelight:bamboo_drawer_with_door.name=Kapaklı Bambu Çekmece
+tile.storagedelight:pale_oak_drawer_with_door.name=Kapılı açık meşe çekmece
+
+tile.storagedelight:small_oak_drawers.name=Small Oak Drawers
+tile.storagedelight:small_birch_drawers.name=Small Birch Drawers
+tile.storagedelight:small_spruce_drawers.name=Small Spruce Drawers
+tile.storagedelight:small_cherry_drawers.name=Small Cherry Drawers
+tile.storagedelight:small_jungle_drawers.name=Small Jungle Drawers
+tile.storagedelight:small_acacia_drawers.name=Small Acacia Drawers
+tile.storagedelight:small_dark_oak_drawers.name=Small Dark Oak Drawers
+tile.storagedelight:small_mangrove_drawers.name=Small Mangrove Drawers
+tile.storagedelight:small_crimson_drawers.name=Small Crimson Drawers
+tile.storagedelight:small_warped_drawers.name=Small Warped Drawers
+tile.storagedelight:small_bamboo_drawers.name=Small Bamboo Drawers
+tile.storagedelight:small_pale_oak_drawers.name=Small Pale Oak Drawers
+
+tile.storagedelight:oak_drawer_with_books.name=Kitaplı Meşe Çekmece
+tile.storagedelight:birch_drawer_with_books.name=Kitaplı Huş Çekmece
+tile.storagedelight:spruce_drawer_with_books.name=Kitaplı Ladin Çekmece
+tile.storagedelight:cherry_drawer_with_books.name=Kitaplı Kiraz Ağacı Çekmece
+tile.storagedelight:jungle_drawer_with_books.name=Kitaplı Orman Ağacı Çekmece
+tile.storagedelight:acacia_drawer_with_books.name=Kitaplı Akasya Çekmece
+tile.storagedelight:dark_oak_drawer_with_books.name=Kitaplı Koyu Meşe Çekmece
+tile.storagedelight:mangrove_drawer_with_books.name=Kitaplı Mangrov Çekmece
+tile.storagedelight:crimson_drawer_with_books.name=Kitaplı Kızıl Çekmece
+tile.storagedelight:warped_drawer_with_books.name=Kitaplı Çarpık Çekmece
+tile.storagedelight:bamboo_drawer_with_books.name=Kitaplı Bambu Çekmece
+tile.storagedelight:pale_oak_drawer_with_books.name=Kitaplı açık meşe çekmece
+
+tile.storagedelight:oak_bookshelf_with_door.name=Meşe Kapılı Kitaplık
+tile.storagedelight:birch_bookshelf_with_door.name=Huş Kapılı Kitaplık
+tile.storagedelight:spruce_bookshelf_with_door.name=Ladin Kapılı Kitaplık
+tile.storagedelight:cherry_bookshelf_with_door.name=Kiraz Kapılı Kitaplık
+tile.storagedelight:jungle_bookshelf_with_door.name=Orman Kapılı Kitaplık
+tile.storagedelight:acacia_bookshelf_with_door.name=Akasya Kapılı Kitaplık
+tile.storagedelight:dark_oak_bookshelf_with_door.name=Koyu Meşe Kapılı Kitaplık
+tile.storagedelight:mangrove_bookshelf_with_door.name=Mangrov Kapılı Kitaplık
+tile.storagedelight:crimson_bookshelf_with_door.name=Kırmızı Kapılı Kitaplık
+tile.storagedelight:warped_bookshelf_with_door.name=Çarpık Kapılı Kitaplık
+tile.storagedelight:bamboo_bookshelf_with_door.name=Bambu Kapılı Kitaplık
+tile.storagedelight:pale_oak_bookshelf_with_door.name=Açık Meşe Kapılı Kitaplık
+
+tile.storagedelight:oak_cabinet_with_glass_doors.name=Cam Kapaklı Meşe Dolap 
+tile.storagedelight:birch_cabinet_with_glass_doors.name=Cam Kapaklı Huş Dolap
+tile.storagedelight:spruce_cabinet_with_glass_doors.name=Cam Kapaklı Ladin Dolap
+tile.storagedelight:jungle_cabinet_with_glass_doors.name=Cam Kapaklı Orman Ağacı Dolap
+tile.storagedelight:acacia_cabinet_with_glass_doors.name=Cam Kapaklı Akasya Dolap
+tile.storagedelight:dark_oak_cabinet_with_glass_doors.name=Cam Kapaklı Koyu Meşe Dolap
+tile.storagedelight:mangrove_cabinet_with_glass_doors.name=Cam Kapaklı Mangrov Dolap
+tile.storagedelight:cherry_cabinet_with_glass_doors.name=Cam Kapaklı Kiraz Ağacı Dolap
+tile.storagedelight:bamboo_cabinet_with_glass_doors.name=Cam Kapaklı Bambu Dolap
+tile.storagedelight:warped_cabinet_with_glass_doors.name=Cam Kapaklı Çarpık Dolap
+tile.storagedelight:crimson_cabinet_with_glass_doors.name=Cam Kapaklı Kızıl Dolap
+tile.storagedelight:pale_oak_cabinet_with_glass_doors.name=Cam kapılı açık meşe dolap
+
+tile.storagedelight:oak_single_door_cabinet.name=Tek Kapaklı Meşe Dolap
+tile.storagedelight:birch_single_door_cabinet.name=Tek Kapaklı Huş Dolap
+tile.storagedelight:spruce_single_door_cabinet.name=Tek Kapaklı Ladin Dolap
+tile.storagedelight:cherry_single_door_cabinet.name=Tek Kapaklı Kiraz Ağacı Dolap
+tile.storagedelight:jungle_single_door_cabinet.name=Tek Kapaklı Orman Ağacı Dolap
+tile.storagedelight:acacia_single_door_cabinet.name=Tek Kapaklı Akasya Dolap
+tile.storagedelight:dark_oak_single_door_cabinet.name=Tek Kapaklı Koyu Meşe Dolap
+tile.storagedelight:mangrove_single_door_cabinet.name=Tek Kapaklı Mangrov Dolap
+tile.storagedelight:crimson_single_door_cabinet.name=Tek Kapaklı Kızıl Dolap
+tile.storagedelight:warped_single_door_cabinet.name=Tek Kapaklı Çarpık Dolap
+tile.storagedelight:bamboo_single_door_cabinet.name=Tek Kapaklı Bambu Dolap
+tile.storagedelight:pale_oak_single_door_cabinet.name=Tek kapılı açık meşe dolap
+
 entity.storagedelight:cherry_cabinet.name=Kiraz Kiler
 entity.storagedelight:bamboo_cabinet.name=Bambu Kiler
 

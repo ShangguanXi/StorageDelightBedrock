@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:warped_single_door_cabinet"
+        },
+        "key": {
+            "S": {
+                "item": "minecraft:warped_slab"
+            },
+            "T": {
+                "item": "minecraft:warped_trapdoor"
+            }
+        },
+        "pattern": [
+            "SSS",
+            " T ",
+            "SSS"
+        ],
+        "result": {
+            "item": "storagedelight:warped_single_door_cabinet"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

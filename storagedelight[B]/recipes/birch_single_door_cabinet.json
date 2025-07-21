@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "storagedelight:birch_single_door_cabinet"
+        },
+        "key": {
+            "S": {
+                "item": "minecraft:birch_slab"
+            },
+            "T": {
+                "item": "minecraft:birch_trapdoor"
+            }
+        },
+        "pattern": [
+            "SSS",
+            " T ",
+            "SSS"
+        ],
+        "result": {
+            "item": "storagedelight:birch_single_door_cabinet"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
